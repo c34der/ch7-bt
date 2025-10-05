@@ -13,6 +13,7 @@ async def response(gateway, command , msg , user_id, first_name, time_taken):
 - - - - - - - - - - - - - - - - - - - - - - - -
 [</b><a href="https://t.me/ccxolympus"><b>ϟ</b></a><b>]T/T: </b><code>8.02 Sec</code><b> | P: </b><code>Live ✅</code><b>
 - - - - - - - - - - - - - - - - - - - - - - - -
-[</b><a href="https://t.me/ccxolympus"><b>ϟ</b></a><b>]Req: </b><b>@XAY4N</b><b> [DEV]</b>
+[</b><a href="https://t.me/ccxolympus"><b>ϟ</b></a><b>]Req: </b><b>@c34der</b><b> [DEV]</b>
 
 '''
+
