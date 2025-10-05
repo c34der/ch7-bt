@@ -13,9 +13,9 @@ USER_MESSAGE_MAP_FILE = "user_message_map.json"
 # Initialize the bot with API credentials
 bot = Client(
     "BOT",
-    api_id='29021447', # Replace with your actual API ID     
-    api_hash='303c8886fed6409c9d0cda4cf5a41905', # Replace with your actual API Hash
-    bot_token="8357706056:AAE0-5UJsAnSGHqoLWkk6Xsp-M0MbJhr1_k", # Replace with your actual Bot Token
+    api_id='25755001', # Replace with your actual API ID     
+    api_hash='c49b6f5ab788a79adeb9c897024c191a', # Replace with your actual API Hash
+    bot_token="8415055284:AAGrhcc5-ZK3H92h6ehEDDJ7xU2hOY424A0", # Replace with your actual Bot Token
     plugins=dict(root="plugins"),
     workers=16  # Increase worker threads for better concurrency
 )
@@ -91,5 +91,6 @@ if __name__ == "__main__":
         print(f"Unhandled exception: {e}")
         traceback.print_exc()
         sys.exit(1)
+
 
 
