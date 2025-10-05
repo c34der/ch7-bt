@@ -19,9 +19,10 @@ Low anti-spam , cheap , fast,  added HQ gates  ⚡️
 
 Payment Methods - Binance / Crypto
 ━━━━━━━━━━━━━
-For more details join @D3AD_X
-Price list - <a href="https://t.me/D3AD_X/32">Click here</a>
+For more details join @pricexyt
+Price list - <a href="https://t.me/pricexyt">Click here</a>
 ━━━━━━━━━━━━━
-If you interested to buy contact @XAY4N. ⭐
+If you interested to buy contact @c34der. ⭐
 </b>'''
+
     await message.reply_text(text, quote=True, disable_web_page_preview=True)
