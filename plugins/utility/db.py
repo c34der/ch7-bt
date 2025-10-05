@@ -7,12 +7,9 @@ import certifi
 
 # ✅ Use direct connection format instead of SRV
 MONGO_URI = (
-    "mongodb://YtInayatGaming:InayatGaming_Mongodb@"
-    "ytinayatgaming-shard-00-00.lulqg.mongodb.net:27017,"
-    "ytinayatgaming-shard-00-01.lulqg.mongodb.net:27017,"
-    "ytinayatgaming-shard-00-02.lulqg.mongodb.net:27017/"
-    "?ssl=true&replicaSet=atlas-dvg04r-shard-0"
-    "&authSource=admin&retryWrites=true&w=majority&appName=YtInayatGaming"
+    "mongodb+srv://labfortest55_db_user:GbueqhGo6pTal5bC@"
+    "checkerdb.bduco4e.mongodb.net/"
+    "?retryWrites=true&w=majority&appName=checkerdb"
 )
 
 # ✅ Add certifi so TLS works properly
@@ -463,6 +460,7 @@ async def init():
     await initialize_default_gateways()
 
     print("MongoDB connection established and initialization complete.")
+
 
 
 
